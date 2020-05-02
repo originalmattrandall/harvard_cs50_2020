@@ -5,3 +5,11 @@ Creates methods that apply the following filter types to photos..
 - Sepia
 - Reflect
 - Blur
+
+## Filter(more)
+
+* not yet imlemented
+
+## Recover
+
+* not yet imlemented
