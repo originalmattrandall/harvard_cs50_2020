@@ -1,6 +1,5 @@
 #include "helpers.h"
 #include "math.h"
-#include "stdio.h"
 
 // Method prototypes
 int limit_value(int value, int max);
