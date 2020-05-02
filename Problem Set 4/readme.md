@@ -1,4 +1,4 @@
-## Filter(less)
+## Filter_less
 
 Creates methods that apply the following filter types to photos..
 - Grayscale
@@ -6,7 +6,7 @@ Creates methods that apply the following filter types to photos..
 - Reflect
 - Blur
 
-## Filter(more)
+## Filter_more
 
 * not yet implemented
 
