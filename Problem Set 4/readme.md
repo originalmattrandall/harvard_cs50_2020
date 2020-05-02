@@ -8,8 +8,8 @@ Creates methods that apply the following filter types to photos..
 
 ## Filter(more)
 
-* not yet imlemented
+* not yet implemented
 
 ## Recover
 
-* not yet imlemented
+* not yet implemented
